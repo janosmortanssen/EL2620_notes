@@ -26,6 +26,11 @@
   url: /intro
   not_numbered: true
 
+# Jupyter notebook chapter
+- title: Homework 0
+  url: /HW0_2019
+  not_numbered: true
+
 # External link
 - title: GitHub repository
   url: https://github.com/jupyter/jupyter-book

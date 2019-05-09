@@ -4,8 +4,8 @@ prev_page:
   url: 
   title: ''
 next_page:
-  url: /https://github.com/jupyter/jupyter-book
-  title: 'GitHub repository'
+  url: /HW0_2019
+  title: 'Homework 0'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 # Books with Jupyter and Jekyll

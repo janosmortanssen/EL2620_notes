@@ -1,5 +1,5 @@
 ---
-interact_link: content/C:\Users\jonas1\Box Sync\Undervisning\NonlinearControl\2019\book\el2620\content\features/notebooks.ipynb
+interact_link: content/C:\Nobackup\EL2620\el2620_notes\content\features/notebooks.ipynb
 kernel_name: python3
 title: 'Jupyter notebooks'
 prev_page:
@@ -85,7 +85,7 @@ ax.legend(custom_lines, ['Cold', 'Medium', 'Hot']);
 
 
 {:.output .output_png}
-![png](C%3A/Users/jonas1/Box%20Sync/Undervisning/NonlinearControl/2019/book/el2620/_build/images/features/notebooks_2_0.png)
+![png](C%3A/Nobackup/EL2620/el2620_notes/_build/images/features/notebooks_2_0.png)
 
 
 
@@ -107,7 +107,7 @@ which you can [see in the original notebook](https://github.com/jupyter/jupyter-
 
 
 {:.output .output_png}
-![png](C%3A/Users/jonas1/Box%20Sync/Undervisning/NonlinearControl/2019/book/el2620/_build/images/features/notebooks_6_0.png)
+![png](C%3A/Nobackup/EL2620/el2620_notes/_build/images/features/notebooks_6_0.png)
 
 
 
