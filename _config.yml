@@ -16,9 +16,9 @@
 
 #######################################################################################
 # Jekyll site settings
-title: Course material in Nonlinear Control
-author: Jonas Martensson
-email: jonas1@kth.se
+title: "Course material in Nonlinear Control"
+author: "Jonas Martensson"
+email: "jonas1@kth.se"
 description: >-
   This is an example book built with Jupyter Books.
 
