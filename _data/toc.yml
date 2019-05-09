@@ -22,9 +22,9 @@
 # See the links below for an example.
 
 # Top-level page
-#- title: Home
-#  url: /intro
-#  not_numbered: true
+- title: Preface
+  url: /preface
+  not_numbered: true
 
 # Jupyter notebook chapter
 - title: Homework 0
