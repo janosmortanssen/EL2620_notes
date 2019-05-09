@@ -30,6 +30,13 @@
 - title: Homework 0
   url: /homework/HW0_2019
   not_numbered: true
+# Jupyter notebook chapter
+- title: Homework 0
+  url: homework/HW0_2019
+  not_numbered: true# Jupyter notebook chapter
+- title: Homework 0
+  url: notebook/HW0_2019
+  not_numbered: true
 
 # External link
 - title: GitHub repository
