@@ -26,6 +26,12 @@
   url: /preface
   not_numbered: true
 
+- header: Lecture notes
+
+- header: Exercise notes
+
+- header: Homework assignments
+
 # Jupyter notebook chapter
 - title: Homework 0
   url: /notebook/HW0_2019
